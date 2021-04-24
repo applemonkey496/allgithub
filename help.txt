@@ -1,0 +1,8 @@
+
+Usage: allgithub.sh [USER] [PASS]
+
+
+USER is your GitHub username (e.g. "github.com/[USER]")
+
+PASS is a GitHub personal access token with at least scope "repo". 
+You can obtain a token from Settings => Developer Settings => Personal access tokens.
